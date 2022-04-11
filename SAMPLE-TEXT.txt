@@ -1,5 +1,5 @@
-welcome to git 
+welcome to git  training
 
-This is the second change
+My second changes.
 
 
